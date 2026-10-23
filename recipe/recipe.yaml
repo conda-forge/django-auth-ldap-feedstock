@@ -22,7 +22,7 @@ requirements:
     - pip
   run:
     - python >=${{ python_min }}
-    - django >=4.2
+    - django >=5.2
     - python-ldap >=3.1
 
 tests:
